@@ -22,13 +22,5 @@ public void verifyloginwithInvalidcredential() {
 
 
 
-@Test
-public void verifyloginwithzerocredential() {
-System.out.println(" Test starting");	 
-Assert.assertTrue(true);
 
-System.out.println("Test End Successfully");
-
-
-}
 }
